@@ -1,2 +1,2 @@
 # calc-app
-class work
+class work done
